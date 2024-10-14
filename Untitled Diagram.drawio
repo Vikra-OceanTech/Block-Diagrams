@@ -288,6 +288,11 @@
             <mxPoint x="350" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0z9goWDs6d-16oreUgOW-110" value="Cat5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0z9goWDs6d-16oreUgOW-92">
+          <mxGeometry x="0.0109" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0z9goWDs6d-16oreUgOW-93" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0z9goWDs6d-16oreUgOW-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="646.7741935483871" as="sourcePoint" />
