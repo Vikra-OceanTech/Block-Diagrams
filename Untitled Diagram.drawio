@@ -382,6 +382,9 @@
         <mxCell id="0z9goWDs6d-16oreUgOW-108" value="GCS" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="221" y="740" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0z9goWDs6d-16oreUgOW-109" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;UDCS Block Diagram&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="110" width="410" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
